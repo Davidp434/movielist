@@ -90,6 +90,10 @@ export function App() {
           </div>
         </main>
       </div>
+      <a className="bt-whatsapp-site w-inline-block">
+        <div className="icone-whatsapp-rodape fa" > + </div> 
+        <div className="tx-whats"> Adicionar</div>
+    </a>
     </div>
   )
 }
